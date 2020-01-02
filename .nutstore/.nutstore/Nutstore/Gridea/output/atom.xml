@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chunkithwang.github.io/</id>
     <title>努力学习的黄同学</title>
-    <updated>2020-01-02T09:35:44.412Z</updated>
+    <updated>2020-01-02T09:39:23.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chunkithwang.github.io/"/>
     <link rel="self" href="https://chunkithwang.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://chunkithwang.github.io/images/avatar.png</logo>
     <icon>https://chunkithwang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 努力学习的黄同学</rights>
+    <entry>
+        <title type="html"><![CDATA[测试2]]></title>
+        <id>https://chunkithwang.github.io/post/ce-shi-2</id>
+        <link href="https://chunkithwang.github.io/post/ce-shi-2">
+        </link>
+        <updated>2020-01-02T09:38:36.000Z</updated>
+        <content type="html"><![CDATA[<p>测试222222</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试测试]]></title>
         <id>https://chunkithwang.github.io/post/ce-shi-ce-shi</id>
